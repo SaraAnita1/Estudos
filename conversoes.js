@@ -9,7 +9,7 @@ console.log(numero + numeroString) //concatenação
 
 //Conversão Explícita
 
-// Number()
-// String()
+// Number() converte para numero
+// String() converte para string
 
 console.log(numero + Number(numeroString));
